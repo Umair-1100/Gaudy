@@ -1,5 +1,4 @@
-
- let values = document.querySelectorAll(".num");
+export let values = document.querySelectorAll(".num");
  let interval = 3000;
 
     values.forEach((valueDisplay) => {
